@@ -7,6 +7,9 @@
 ---
 
 # Trade-Offs and Management Strategies for Ecosystem Services in Mixed Scots Pine and Maritime Pine Forests
+
+:open_file_folder: Repository DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12584398.svg)](https://doi.org/10.5281/zenodo.12584398)
+
 <!-- 
 :bulb: Have a look at the original poster [here](http://dx.doi.org/10.13140/RG.2.2.27865.94564).
 
