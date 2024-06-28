@@ -1,0 +1,150 @@
+n_scnr,T,Scenario_age,Action,Harvest_type,Harvest_criteria,Harvest_severity,Trees_to_preserve,Species_to_harvest,Harvest_severity_target
+bau_PA,30,0,Initialization,-,-,-,-,-,-
+bau_PA,35,5,Execution,-,-,-,-,-,-
+bau_PA,40,10,Execution,-,-,-,-,-,-
+bau_PA,40,10,Thinning,Low thinning,Basal area,35,-,-,-
+bau_PA,45,15,Execution,-,-,-,-,-,-
+bau_PA,50,20,Execution,-,-,-,-,-,-
+bau_PA,55,25,Execution,-,-,-,-,-,-
+bau_PA,60,30,Execution,-,-,-,-,-,-
+bau_PA,60,30,Thinning,Systematic thinning with future trees,Basal area,18,50,-,-
+bau_PA,60,30,Thinning,Low thinning,Basal area,18,-,-,-
+bau_PA,65,35,Execution,-,-,-,-,-,-
+bau_PA,70,40,Execution,-,-,-,-,-,-
+bau_PA,75,45,Execution,-,-,-,-,-,-
+bau_PA,80,50,Execution,-,-,-,-,-,-
+bau_PA,85,55,Execution,-,-,-,-,-,-
+bau_PA,90,60,Execution,-,-,-,-,-,-
+bau_PA,95,65,Execution,-,-,-,-,-,-
+bau_PA,100,70,Execution,-,-,-,-,-,-
+bau_PA,105,75,Execution,-,-,-,-,-,-
+bau_PA,110,80,Execution,-,-,-,-,-,-
+bau_PA,115,85,Execution,-,-,-,-,-,-
+bau_PA,120,90,Execution,-,-,-,-,-,-
+carb_1,30,0,Initialization,-,-,-,-,-,-
+carb_1,30,0,Thinning,Systematic thinning,Basal area,11,-,-,-
+carb_1,35,5,Execution,-,-,-,-,-,-
+carb_1,40,10,Execution,-,-,-,-,-,-
+carb_1,40,10,Thinning,Systematic thinning,Basal area,18,-,-,-
+carb_1,45,15,Execution,-,-,-,-,-,-
+carb_1,50,20,Execution,-,-,-,-,-,-
+carb_1,50,20,Thinning,Systematic thinning,Basal area,31,-,-,-
+carb_1,55,25,Execution,-,-,-,-,-,-
+carb_1,60,30,Execution,-,-,-,-,-,-
+carb_1,65,35,Execution,-,-,-,-,-,-
+carb_1,65,35,Thinning,Systematic thinning,Basal area,20,-,-,-
+carb_1,70,40,Execution,-,-,-,-,-,-
+carb_1,75,45,Execution,-,-,-,-,-,-
+carb_1,80,50,Execution,-,-,-,-,-,-
+carb_1,80,50,Thinning,Systematic thinning,Basal area,20,-,-,-
+carb_1,85,55,Execution,-,-,-,-,-,-
+carb_1,90,60,Execution,-,-,-,-,-,-
+carb_1,95,65,Execution,-,-,-,-,-,-
+carb_1,95,65,Thinning,Systematic thinning,Basal area,20,-,-,-
+carb_1,100,70,Execution,-,-,-,-,-,-
+carb_1,105,75,Execution,-,-,-,-,-,-
+carb_1,110,80,Execution,-,-,-,-,-,-
+carb_1,110,80,Thinning,Systematic thinning,Basal area,20,-,-,-
+carb_1,115,85,Execution,-,-,-,-,-,-
+carb_1,120,90,Execution,-,-,-,-,-,-
+carb_1,125,95,Execution,-,-,-,-,-,-
+carb_1,125,95,Thinning,Systematic thinning,Basal area,20,-,-,-
+carb_1,130,100,Execution,-,-,-,-,-,-
+carb_1,135,105,Execution,-,-,-,-,-,-
+carb_1,140,110,Execution,-,-,-,-,-,-
+contro,30,0,Initialization,-,-,-,-,-,-
+contro,35,5,Execution,-,-,-,-,-,-
+contro,40,10,Execution,-,-,-,-,-,-
+contro,45,15,Execution,-,-,-,-,-,-
+contro,50,20,Execution,-,-,-,-,-,-
+contro,55,25,Execution,-,-,-,-,-,-
+contro,60,30,Execution,-,-,-,-,-,-
+contro,65,35,Execution,-,-,-,-,-,-
+contro,70,40,Execution,-,-,-,-,-,-
+contro,75,45,Execution,-,-,-,-,-,-
+contro,80,50,Execution,-,-,-,-,-,-
+contro,85,55,Execution,-,-,-,-,-,-
+contro,90,60,Execution,-,-,-,-,-,-
+contro,95,65,Execution,-,-,-,-,-,-
+contro,100,70,Execution,-,-,-,-,-,-
+contro,105,75,Execution,-,-,-,-,-,-
+contro,110,80,Execution,-,-,-,-,-,-
+contro,115,85,Execution,-,-,-,-,-,-
+contro,120,90,Execution,-,-,-,-,-,-
+contro,125,95,Execution,-,-,-,-,-,-
+contro,130,100,Execution,-,-,-,-,-,-
+contro,135,105,Execution,-,-,-,-,-,-
+contro,140,110,Execution,-,-,-,-,-,-
+contro,145,115,Execution,-,-,-,-,-,-
+contro,150,120,Execution,-,-,-,-,-,-
+contro,155,125,Execution,-,-,-,-,-,-
+contro,160,130,Execution,-,-,-,-,-,-
+contro,165,135,Execution,-,-,-,-,-,-
+contro,170,140,Execution,-,-,-,-,-,-
+contro,175,145,Execution,-,-,-,-,-,-
+contro,180,150,Execution,-,-,-,-,-,-
+contro,185,155,Execution,-,-,-,-,-,-
+contro,190,160,Execution,-,-,-,-,-,-
+contro,195,165,Execution,-,-,-,-,-,-
+contro,200,170,Execution,-,-,-,-,-,-
+contro,205,175,Execution,-,-,-,-,-,-
+contro,210,180,Execution,-,-,-,-,-,-
+contro,215,185,Execution,-,-,-,-,-,-
+contro,220,190,Execution,-,-,-,-,-,-
+mush_3,30,0,Initialization,-,-,-,-,-,-
+mush_3,30,0,Thinning,Systematic thinning,Basal area,20,-,-,-
+mush_3,35,5,Execution,-,-,-,-,-,-
+mush_3,40,10,Execution,-,-,-,-,-,-
+mush_3,40,10,Thinning,Systematic thinning,Basal area,20,-,-,-
+mush_3,45,15,Execution,-,-,-,-,-,-
+mush_3,50,20,Execution,-,-,-,-,-,-
+mush_3,50,20,Thinning,Systematic thinning,Basal area,20,-,-,-
+mush_3,55,25,Execution,-,-,-,-,-,-
+mush_3,60,30,Execution,-,-,-,-,-,-
+mush_3,65,35,Execution,-,-,-,-,-,-
+mush_3,65,35,Thinning,Systematic thinning,Basal area,20,-,-,-
+mush_3,70,40,Execution,-,-,-,-,-,-
+mush_3,75,45,Execution,-,-,-,-,-,-
+mush_3,75,45,Thinning,Systematic thinning,Basal area,20,-,-,-
+mush_3,80,50,Execution,-,-,-,-,-,-
+mush_3,85,55,Execution,-,-,-,-,-,-
+mush_3,85,55,Thinning,Systematic thinning,Basal area,20,-,-,-
+mush_3,90,60,Execution,-,-,-,-,-,-
+mush_3,95,65,Execution,-,-,-,-,-,-
+mush_3,95,65,Thinning,Systematic thinning,Basal area,20,-,-,-
+mush_3,100,70,Execution,-,-,-,-,-,-
+mush_3,105,75,Execution,-,-,-,-,-,-
+mush_3,105,75,Thinning,Systematic thinning,Basal area,20,-,-,-
+mush_3,110,80,Execution,-,-,-,-,-,-
+mush_3,115,85,Execution,-,-,-,-,-,-
+mush_3,115,85,Thinning,Systematic thinning,Basal area,20,-,-,-
+mush_3,120,90,Execution,-,-,-,-,-,-
+wood_1,30,0,Initialization,-,-,-,-,-,-
+wood_1,30,0,Thinning,Systematic thinning with future trees,Percentage of trees,35,50,-,-
+wood_1,35,5,Execution,-,-,-,-,-,-
+wood_1,40,10,Execution,-,-,-,-,-,-
+wood_1,40,10,Thinning,Systematic thinning with future trees,Percentage of trees,35,50,-,-
+wood_1,45,15,Execution,-,-,-,-,-,-
+wood_1,50,20,Execution,-,-,-,-,-,-
+wood_1,50,20,Thinning,Systematic thinning with future trees,Percentage of trees,30,50,-,-
+wood_1,55,25,Execution,-,-,-,-,-,-
+wood_1,60,30,Execution,-,-,-,-,-,-
+wood_1,65,35,Execution,-,-,-,-,-,-
+wood_1,65,35,Thinning,Systematic thinning with future trees,Percentage of trees,20,50,-,-
+wood_1,70,40,Execution,-,-,-,-,-,-
+wood_1,75,45,Execution,-,-,-,-,-,-
+wood_1,80,50,Execution,-,-,-,-,-,-
+wood_1,85,55,Execution,-,-,-,-,-,-
+wood_1,90,60,Execution,-,-,-,-,-,-
+wood_1,90,60,Thinning,Systematic thinning with future trees,Percentage of trees,15,50,-,-
+wood_1,95,65,Execution,-,-,-,-,-,-
+wood_1,100,70,Execution,-,-,-,-,-,-
+wood_1,105,75,Execution,-,-,-,-,-,-
+wood_1,110,80,Execution,-,-,-,-,-,-
+wood_1,115,85,Execution,-,-,-,-,-,-
+wood_1,120,90,Execution,-,-,-,-,-,-
+wood_1,120,90,Thinning,Systematic thinning with future trees,Percentage of trees,15,50,-,-
+wood_1,125,95,Execution,-,-,-,-,-,-
+wood_1,130,100,Execution,-,-,-,-,-,-
+wood_1,135,105,Execution,-,-,-,-,-,-
+wood_1,140,110,Execution,-,-,-,-,-,-

@@ -1,0 +1,150 @@
+Scenario;Stand age (years);Action;Harvest type;Harvest criteria;Harvest severity (%);Trees to preserve (%)
+BAU;30;Initialization;-;-;-;-
+BAU;35;Execution;-;-;-;-
+BAU;40;Execution;-;-;-;-
+BAU;40;Thinning;Low thinning;Basal area;35;-
+BAU;45;Execution;-;-;-;-
+BAU;50;Execution;-;-;-;-
+BAU;55;Execution;-;-;-;-
+BAU;60;Execution;-;-;-;-
+BAU;60;Thinning;Systematic thinning with future trees;Basal area;18;50
+BAU;60;Thinning;Low thinning;Basal area;18;-
+BAU;65;Execution;-;-;-;-
+BAU;70;Execution;-;-;-;-
+BAU;75;Execution;-;-;-;-
+BAU;80;Execution;-;-;-;-
+BAU;85;Execution;-;-;-;-
+BAU;90;Execution;-;-;-;-
+BAU;95;Execution;-;-;-;-
+BAU;100;Execution;-;-;-;-
+BAU;105;Execution;-;-;-;-
+BAU;110;Execution;-;-;-;-
+BAU;115;Execution;-;-;-;-
+BAU;120;Execution;-;-;-;-
+CARBON;30;Initialization;-;-;-;-
+CARBON;30;Thinning;Systematic thinning;Basal area;11;-
+CARBON;35;Execution;-;-;-;-
+CARBON;40;Execution;-;-;-;-
+CARBON;40;Thinning;Systematic thinning;Basal area;18;-
+CARBON;45;Execution;-;-;-;-
+CARBON;50;Execution;-;-;-;-
+CARBON;50;Thinning;Systematic thinning;Basal area;31;-
+CARBON;55;Execution;-;-;-;-
+CARBON;60;Execution;-;-;-;-
+CARBON;65;Execution;-;-;-;-
+CARBON;65;Thinning;Systematic thinning;Basal area;20;-
+CARBON;70;Execution;-;-;-;-
+CARBON;75;Execution;-;-;-;-
+CARBON;80;Execution;-;-;-;-
+CARBON;80;Thinning;Systematic thinning;Basal area;20;-
+CARBON;85;Execution;-;-;-;-
+CARBON;90;Execution;-;-;-;-
+CARBON;95;Execution;-;-;-;-
+CARBON;95;Thinning;Systematic thinning;Basal area;20;-
+CARBON;100;Execution;-;-;-;-
+CARBON;105;Execution;-;-;-;-
+CARBON;110;Execution;-;-;-;-
+CARBON;110;Thinning;Systematic thinning;Basal area;20;-
+CARBON;115;Execution;-;-;-;-
+CARBON;120;Execution;-;-;-;-
+CARBON;125;Execution;-;-;-;-
+CARBON;125;Thinning;Systematic thinning;Basal area;20;-
+CARBON;130;Execution;-;-;-;-
+CARBON;135;Execution;-;-;-;-
+CARBON;140;Execution;-;-;-;-
+CONTROL;30;Initialization;-;-;-;-
+CONTROL;35;Execution;-;-;-;-
+CONTROL;40;Execution;-;-;-;-
+CONTROL;45;Execution;-;-;-;-
+CONTROL;50;Execution;-;-;-;-
+CONTROL;55;Execution;-;-;-;-
+CONTROL;60;Execution;-;-;-;-
+CONTROL;65;Execution;-;-;-;-
+CONTROL;70;Execution;-;-;-;-
+CONTROL;75;Execution;-;-;-;-
+CONTROL;80;Execution;-;-;-;-
+CONTROL;85;Execution;-;-;-;-
+CONTROL;90;Execution;-;-;-;-
+CONTROL;95;Execution;-;-;-;-
+CONTROL;100;Execution;-;-;-;-
+CONTROL;105;Execution;-;-;-;-
+CONTROL;110;Execution;-;-;-;-
+CONTROL;115;Execution;-;-;-;-
+CONTROL;120;Execution;-;-;-;-
+CONTROL;125;Execution;-;-;-;-
+CONTROL;130;Execution;-;-;-;-
+CONTROL;135;Execution;-;-;-;-
+CONTROL;140;Execution;-;-;-;-
+CONTROL;145;Execution;-;-;-;-
+CONTROL;150;Execution;-;-;-;-
+CONTROL;155;Execution;-;-;-;-
+CONTROL;160;Execution;-;-;-;-
+CONTROL;165;Execution;-;-;-;-
+CONTROL;170;Execution;-;-;-;-
+CONTROL;175;Execution;-;-;-;-
+CONTROL;180;Execution;-;-;-;-
+CONTROL;185;Execution;-;-;-;-
+CONTROL;190;Execution;-;-;-;-
+CONTROL;195;Execution;-;-;-;-
+CONTROL;200;Execution;-;-;-;-
+CONTROL;205;Execution;-;-;-;-
+CONTROL;210;Execution;-;-;-;-
+CONTROL;215;Execution;-;-;-;-
+CONTROL;220;Execution;-;-;-;-
+MUSHROOM;30;Initialization;-;-;-;-
+MUSHROOM;30;Thinning;Systematic thinning;Basal area;20;-
+MUSHROOM;35;Execution;-;-;-;-
+MUSHROOM;40;Execution;-;-;-;-
+MUSHROOM;40;Thinning;Systematic thinning;Basal area;20;-
+MUSHROOM;45;Execution;-;-;-;-
+MUSHROOM;50;Execution;-;-;-;-
+MUSHROOM;50;Thinning;Systematic thinning;Basal area;20;-
+MUSHROOM;55;Execution;-;-;-;-
+MUSHROOM;60;Execution;-;-;-;-
+MUSHROOM;65;Execution;-;-;-;-
+MUSHROOM;65;Thinning;Systematic thinning;Basal area;20;-
+MUSHROOM;70;Execution;-;-;-;-
+MUSHROOM;75;Execution;-;-;-;-
+MUSHROOM;75;Thinning;Systematic thinning;Basal area;20;-
+MUSHROOM;80;Execution;-;-;-;-
+MUSHROOM;85;Execution;-;-;-;-
+MUSHROOM;85;Thinning;Systematic thinning;Basal area;20;-
+MUSHROOM;90;Execution;-;-;-;-
+MUSHROOM;95;Execution;-;-;-;-
+MUSHROOM;95;Thinning;Systematic thinning;Basal area;20;-
+MUSHROOM;100;Execution;-;-;-;-
+MUSHROOM;105;Execution;-;-;-;-
+MUSHROOM;105;Thinning;Systematic thinning;Basal area;20;-
+MUSHROOM;110;Execution;-;-;-;-
+MUSHROOM;115;Execution;-;-;-;-
+MUSHROOM;115;Thinning;Systematic thinning;Basal area;20;-
+MUSHROOM;120;Execution;-;-;-;-
+WOOD;30;Initialization;-;-;-;-
+WOOD;30;Thinning;Systematic thinning with future trees;Percentage of trees;35;50
+WOOD;35;Execution;-;-;-;-
+WOOD;40;Execution;-;-;-;-
+WOOD;40;Thinning;Systematic thinning with future trees;Percentage of trees;35;50
+WOOD;45;Execution;-;-;-;-
+WOOD;50;Execution;-;-;-;-
+WOOD;50;Thinning;Systematic thinning with future trees;Percentage of trees;30;50
+WOOD;55;Execution;-;-;-;-
+WOOD;60;Execution;-;-;-;-
+WOOD;65;Execution;-;-;-;-
+WOOD;65;Thinning;Systematic thinning with future trees;Percentage of trees;20;50
+WOOD;70;Execution;-;-;-;-
+WOOD;75;Execution;-;-;-;-
+WOOD;80;Execution;-;-;-;-
+WOOD;85;Execution;-;-;-;-
+WOOD;90;Execution;-;-;-;-
+WOOD;90;Thinning;Systematic thinning with future trees;Percentage of trees;15;50
+WOOD;95;Execution;-;-;-;-
+WOOD;100;Execution;-;-;-;-
+WOOD;105;Execution;-;-;-;-
+WOOD;110;Execution;-;-;-;-
+WOOD;115;Execution;-;-;-;-
+WOOD;120;Execution;-;-;-;-
+WOOD;120;Thinning;Systematic thinning with future trees;Percentage of trees;15;50
+WOOD;125;Execution;-;-;-;-
+WOOD;130;Execution;-;-;-;-
+WOOD;135;Execution;-;-;-;-
+WOOD;140;Execution;-;-;-;-
