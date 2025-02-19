@@ -1,25 +1,10 @@
-# *Pinus sylvestris and pinaster* - trade offs and ecosystem services 
-
 *A repository with the original data, code and results of the scientific article titled:*
-
-***Trade-Offs and Management Strategies for Ecosystem Services in Mixed Scots Pine and Maritime Pine Forests***
-
----
 
 # Trade-Offs and Management Strategies for Ecosystem Services in Mixed Scots Pine and Maritime Pine Forests
 
 :open_file_folder: Repository DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13904531.svg)](https://doi.org/10.5281/zenodo.13904531)
 
-<!-- 
-:bulb: Have a look at the original poster [here](http://dx.doi.org/10.13140/RG.2.2.27865.94564).
-
-:bookmark: Poster DOI: http://dx.doi.org/10.13140/RG.2.2.27865.94564
-
-:open_file_folder: Repository DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10993345.svg)](https://doi.org/10.5281/zenodo.10993345)
-
---- 
-
--->
+📜 Manuscript DOI: [![DOI](https://img.shields.io/badge/DOI-European_Journal_of_Forest_Research-blue.svg?style=flat&labelColor=whitesmoke)](https://doi.org/10.1007/s10342-024-01752-3)
 
 ## :book: Abstract
 
@@ -75,30 +60,36 @@ The content of this repository is under the [MIT license](./LICENSE).
 
 #### Aitor Vázquez Veloso:
 
-[![](https://github.com/aitorvv.png?size=50)](https://github.com/aitorvv) \\
-[ORCID](https://orcid.org/0000-0003-0227-506X) \\
-[Researchgate](https://www.researchgate.net/profile/Aitor_Vazquez_Veloso) \\
-[LinkedIn](https://www.linkedin.com/in/aitorvazquezveloso/) \\
-[Twitter](https://twitter.com/aitorvv) \\
-[UVa](https://portaldelaciencia.uva.es/investigadores/178830/detalle)
+[![](https://github.com/aitorvv.png?size=50)](https://github.com/aitorvv) 
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aitor.vazquez.veloso@uva.es)
+[![ORCID](https://img.shields.io/badge/ORCID-green?logo=orcid)](https://orcid.org/0000-0003-0227-506X)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=XNMn1cUAAAAJ&hl=es&oi=ao)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Aitor_Vazquez_Veloso)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/aitorvazquezveloso/)
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://twitter.com/aitorvv)
+[<img src="https://media.licdn.com/dms/image/v2/D4D0BAQFazHOlOJO50A/company-logo_200_200/company-logo_200_200/0/1692170343519/universidad_de_valladolid_logo?e=1747872000&v=beta&t=1mTS-xC7h3L_DQATdt6hpqjWGgW_Am3MXKnjYwcOVZs" alt="Description" width="22">](https://portaldelaciencia.uva.es/investigadores/178830/detalle)
 
 #### Irene Ruano Benito
 
-[![](https://github.com/ireneruano.png?size=50)](https://github.com/ireneruano) \\
-[ORCID](https://orcid.org/0000-0003-4059-1928) \\
-[Researchgate](https://www.researchgate.net/profile/Irene-Ruano) \\
-[LinkedIn](https://www.linkedin.com/in/ireneruano) \\
-[Twitter](https://x.com/iruanopalencia) \\
-[UVa](https://portaldelaciencia.uva.es/investigadores/181463/detalle)
+[![](https://github.com/ireneruano.png?size=50)](https://github.com/ireneruano) 
+
+[![ORCID](https://img.shields.io/badge/ORCID-green?logo=orcid)](https://orcid.org/0000-0003-4059-1928) 
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Irene-Ruano) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ireneruano) 
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/iruanopalencia) 
+[<img src="https://media.licdn.com/dms/image/v2/D4D0BAQFazHOlOJO50A/company-logo_200_200/company-logo_200_200/0/1692170343519/universidad_de_valladolid_logo?e=1747872000&v=beta&t=1mTS-xC7h3L_DQATdt6hpqjWGgW_Am3MXKnjYwcOVZs" alt="Description" width="22">](https://portaldelaciencia.uva.es/investigadores/181463/detalle)
+
 
 #### Felipe Bravo Oviedo:
 
-[![](https://github.com/Felipe-Bravo.png?size=50)](https://github.com/Felipe-Bravo) \\
-[ORCID](https://orcid.org/0000-0001-7348-6695) \\
-[Researchgate](https://www.researchgate.net/profile/Felipe-Bravo-11) \\
-[LinkedIn](https://www.linkedin.com/in/felipebravooviedo) \\
-[Twitter](https://twitter.com/fbravo_SFM) \\
-[UVa](https://portaldelaciencia.uva.es/investigadores/181874/detalle)
+[![](https://github.com/Felipe-Bravo.png?size=50)](https://github.com/Felipe-Bravo) 
+
+[![ORCID](https://img.shields.io/badge/ORCID-green?logo=orcid)](https://orcid.org/0000-0001-7348-6695) 
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Felipe-Bravo-11) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/felipebravooviedo) 
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://twitter.com/fbravo_SFM) 
+[<img src="https://media.licdn.com/dms/image/v2/D4D0BAQFazHOlOJO50A/company-logo_200_200/company-logo_200_200/0/1692170343519/universidad_de_valladolid_logo?e=1747872000&v=beta&t=1mTS-xC7h3L_DQATdt6hpqjWGgW_Am3MXKnjYwcOVZs" alt="Description" width="22">](https://portaldelaciencia.uva.es/investigadores/181874/detalle)
 
 ---
 
