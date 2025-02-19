@@ -1,4 +1,4 @@
-cff-version: 1.2
+cff-version: 1.2.0
 message: "If you use this resources, please cite it as below."
 authors:
 - family-names: "Vázquez-Veloso"
@@ -11,7 +11,7 @@ authors:
   given-names: "Felipe"
   orcid: "https://orcid.org/0000-0001-7348-6695"
 title: "Trade-Offs and Management Strategies for Ecosystem Services in Mixed Scots Pine and Maritime Pine Forests - code and data"
-version: 1.2
+version: 1.2.0
 doi: https://zenodo.org/doi/10.5281/zenodo.13904531
 date-released: 2024-08-08
 url: "https://github.com/aitorvv/Pinus_sylvestris_and_pinaster-trade_offs_and_ecosystem_services"
